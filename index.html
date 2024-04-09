@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dungeons of Discord Table Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-mode">
+
+<h1>Dungeons of Discord Table Generator</h1>
+
+<div id="app">
+    <textarea id="itemInput" placeholder="Enter items, one per line"></textarea>
+    <button onclick="addItems()">Add Items</button>
+    <button onclick="generateTable()">Generate Table</button>
+    <button onclick="exportItemsToCSV()">Export to CSV</button>
+    <div id="tableContainer"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
