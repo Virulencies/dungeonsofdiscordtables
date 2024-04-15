@@ -1,4 +1,4 @@
-##Dungeons of Discord Table Maker
+## Dungeons of Discord Table Maker
 
 Ever wanted to make a quick roll table for Dungeons and Dragons? Do you prefer a simplistic interface that's easy on the eyes and subscription/login/ad-free?
 
